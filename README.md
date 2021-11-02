@@ -1,3 +1,3 @@
 # Skateboard
 
-![desktop.png](Desktop)
+![Desktop](desktop.png)
